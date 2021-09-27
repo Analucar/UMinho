@@ -28,32 +28,32 @@ Here you'll find most of the projects that I did during my time studying Softwar
 ## :star2: Third Year :star2:
 
 ### 1st Semester ###
-(18) Base de Dados
+(18) [Base de Dados](https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/BD)
 
-(15) Desenvolvimento de Sistemas de Software
+(15) [Desenvolvimento de Sistemas de Software](https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/DSS)
 
-(20,15,20) Modelos deterministicos de Investigação Operacional
+(20,15,20) [Modelos Deterministicos de Investigação Operacional](https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/MDIO)
 
-(16) Sistemas Distribuidos
+(16) [Sistemas Distribuidos](https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/SD)
 
-(15) Redes de Comoutadores
+(15) [Redes de Computadores]((https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/RC)
 
-(18,19) Métodos Numéricos e Otimização não Linear
+(18,19) [Métodos Numéricos e Otimização não Linear](https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/MNOL)
 
 ### 2st Semester ###
-(16) Laboratórios de Informática IV
+(16) [Laboratórios de Informática IV](https://github.com/Analucar/UMinho/tree/main/ThirdYear/2nd/LI4)
 
-(18,18) Sistema de Representação de Conhecimento e Raciocínio
+(18,18) [Sistema de Representação de Conhecimento e Raciocínio](https://github.com/Analucar/UMinho/tree/main/ThirdYear/2nd/SRCR)
 
-(18) Computação Gráfica
+(18) [Computação Gráfica](https://github.com/Analucar/UMinho/tree/main/ThirdYear/2nd/CG)
 
-(18) Modelos Estocásticos de Investigação Operacional
+(18) [Modelos Estocásticos de Investigação Operacional](https://github.com/Analucar/UMinho/tree/main/ThirdYear/2nd/MEIO)
 
-(19,16) Processamento de Linguagens
+(19,16) [Processamento de Linguagens](https://github.com/Analucar/UMinho/tree/main/ThirdYear/2nd/PL)
 
-(14) Comunicações por Computadores
+(14) [Comunicações por Computadores](https://github.com/Analucar/UMinho/tree/main/ThirdYear/2nd/CC)
 
-
-
+***
+![](https://komarev.com/ghpvc/?username=Analucar)
 
 
