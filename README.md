@@ -41,7 +41,7 @@ All of the projects were developed during my time studying Software Engineering 
 
 **16** - [Sistemas Distribuidos](https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/SD)
 
-**15** - [Redes de Computadores](https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/RC)
+**17** - [Redes de Computadores](https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/RC)
 
 **18, 19** - [Métodos Numéricos e Otimização não Linear](https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/MNOL)
 
