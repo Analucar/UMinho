@@ -3,4 +3,4 @@
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
-- Filipe Felício
+- [Filipe Felício](https://github.com/feliciofilipe/)
