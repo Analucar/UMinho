@@ -5,5 +5,5 @@ In this subject we developed 3 different projects. Although I don't know the gra
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
-- Henrique Ribeiro
+- [Henrique Ribeiro](https://github.com/henriq350)
 - Pedro Almeida Fernandes
