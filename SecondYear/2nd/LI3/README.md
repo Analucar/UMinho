@@ -1,7 +1,9 @@
 ### :books: Laboratório de Informática III
 ***
 
-This subject consisted in developing 2 projects, one in Java and another in C.   
+This subject consisted in developing 2 projects, one in Java and another in C.
+- Project C: 17
+- Project Java: 18
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
