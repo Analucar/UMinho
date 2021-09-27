@@ -1,7 +1,7 @@
 ### :books: Redes de Computadores
 ***
 
-In this subject we developed 4 different projects
+In this subject we developed 4 different projects. 
 
 #### :handshake: Contributors - TP1
 - [Ana Luísa Carneiro](https://github.com/Analucar)
