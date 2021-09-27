@@ -70,3 +70,5 @@ All of the projects were developed during my time studying Software Engineering 
 <img align="left" width="26px" src="https://github.com/github/explore/blob/main/topics/json/json.png"/>
 <img align="left" width="26px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"/>
 <img align="left" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png"/>
+<img align="left" width="26px" src="https://github.com/github/explore/blob/main/topics/xml/xml.png"/>
+
