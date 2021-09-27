@@ -1,0 +1,14 @@
+$TTL	604800
+@	IN	SOA	Server1.cc.pt.	PL04G09.Server1(
+			1
+			604800
+			86400
+			2419200
+			604800 )
+
+@	IN	NS	Server1.cc.pt.
+@	IN	NS	Mercurio.cc.pt.
+
+1	IN	PTR	Marte.cc.pt.
+2	IN	PTR	Mercurio.cc.pt.
+3	IN	PTR	Venus.cc.pt.
