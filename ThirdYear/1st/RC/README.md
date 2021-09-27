@@ -1,7 +1,7 @@
 ### :books: Redes de Computadores
 ***
 
-In this subject we developed 4 different projects. 
+In this subject we developed 4 different projects. Although I don't know the grade for each project, the avarege score between the 4 projects is 17.
 
 #### :handshake: Contributors - TP1
 - [Ana Luísa Carneiro](https://github.com/Analucar)
