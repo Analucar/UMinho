@@ -1,6 +1,5 @@
 ### :books: Sistema de Representação de Conhecimento e Raciocínio
 ***
-Here you can find the reports and code developed for Sistema de Representação de Conhecimento e Raciocínio.
 
 In this subject we developed 2 projects. A individual project and a group project.
 - Individual Project: 18
