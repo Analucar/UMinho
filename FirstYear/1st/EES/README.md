@@ -5,5 +5,5 @@
 - [Ana Luísa Carneiro](https://github.com/Analucar)
 - [Luís Pinto](https://github.com/L-Pinto)
 - [Henrique Ribeiro](https://github.com/henriq350)
-- Filipe Felício
+- [Filipe Felício](https://github.com/feliciofilipe/)
 - Yunyi Xia
