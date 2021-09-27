@@ -7,12 +7,12 @@ Here you'll find most of the projects that I did during my time studying Softwar
 ## :star2: First Year :star2:
 
 ### 1st Semester ###
-(15) Elementos de Engenharia de Sistemas
+(15) [Elementos de Engenharia de Sistemas](https://github.com/Analucar/UMinho/tree/main/FirstYear/1st/EES)
 
-(18) Laboratórios de Informática I
+(18) [Laboratórios de Informática I](https://github.com/Analucar/UMinho/tree/main/FirstYear/1st/LI1)
 
 ### 2st Semester ###
-(16) Laboratórios de Informática II
+(16) [Laboratórios de Informática II](https://github.com/Analucar/UMinho/tree/main/FirstYear/2nd/LI2)
 
 ## :star2: Second Year :star2:
 
