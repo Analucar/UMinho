@@ -1,6 +1,5 @@
 ### :books: Redes de Computadores
 ***
-Here you can find the report and code developed for Redes de Computadores.
 
 In this subject we developed 4 different projects
 
