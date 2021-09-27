@@ -4,8 +4,8 @@
 Here you can find the report and code developed for Processamento de Linguagens.
 
 In this subject we developed 2 different projects.
-- First Project: 19/20
-- Second Project: 16/20
+- First Project: 19
+- Second Project: 16
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
