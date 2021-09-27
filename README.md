@@ -17,13 +17,13 @@ Here you'll find most of the projects that I did during my time studying Softwar
 ## :star2: Second Year :star2:
 
 ### 2st Semester ###
-(18) Laboratórios de Informática III
+(18) [Laboratórios de Informática III](https://github.com/Analucar/UMinho/tree/main/SecondYear/2nd/LI3)
 
-(13) Calculo de Programas
+(13) [Calculo de Programas](https://github.com/Analucar/UMinho/tree/main/SecondYear/2nd/CP)
 
-(13) Sistemas Operativos
+(13) [Sistemas Operativos](https://github.com/Analucar/UMinho/tree/main/SecondYear/2nd/SO)
 
-(15) Programação Orientada aos Objetos
+(15) [Programação Orientada aos Objetos](https://github.com/Analucar/UMinho/tree/main/SecondYear/2nd/POO)
 
 ## :star2: Third Year :star2:
 
