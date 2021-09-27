@@ -2,8 +2,8 @@
 ***
 
 In this subject we developed 2 projects.
-First Project: 18
-Second Project: 19
+- First Project: 18
+- Second Project: 19
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
