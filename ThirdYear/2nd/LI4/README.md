@@ -1,6 +1,5 @@
 ### :books: Laboratório de Informática IV
 ***
-Here you can find the report and code developed for Laboratório de Informática IV.
 
 In this subject the project was divided in 3 different phases. 
 
