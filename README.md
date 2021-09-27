@@ -20,7 +20,7 @@ All of the projects were developed during my time studying Software Engineering 
 ### :wavy_dash: SECOND YEAR :wavy_dash:
 
 #### :sunflower: 2nd Semester 
-**18** - [Laboratórios de Informática III](https://github.com/Analucar/UMinho/tree/main/SecondYear/2nd/LI3)
+**17, 18** - [Laboratórios de Informática III](https://github.com/Analucar/UMinho/tree/main/SecondYear/2nd/LI3)
 
 **13** - [Calculo de Programas](https://github.com/Analucar/UMinho/tree/main/SecondYear/2nd/CP)
 
