@@ -1,6 +1,5 @@
 ### :books: Comunicação por Computadores
 ***
-Here you can find the report and code developed for Comunicação por Computadores.
 
 In this subject we developed 3 different projects.
 
