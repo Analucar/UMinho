@@ -1,4 +1,4 @@
-# College Projets 💻
+# University Projects 💻
 
 Here you'll find most of the projects that I did during my time studying Software Engineering at University of Minho.
 
