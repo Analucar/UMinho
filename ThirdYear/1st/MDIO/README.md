@@ -1,8 +1,6 @@
 ### :books: Modelos Determinísticos de Investigação Operacional
 ***
 
-Here you can find the report and code developed for Modelos Determinísticos de Investigação Operacional.
-
 In this subject we devoleped 3 different projects. 
 - First Project: 20
 - Seconde Project: 15
