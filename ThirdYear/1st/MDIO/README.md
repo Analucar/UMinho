@@ -1,4 +1,4 @@
-### ::books: Modelos Determinísticos de Investigação Operacional
+### :books: Modelos Determinísticos de Investigação Operacional
 ***
 
 Here you can find the report and code developed for Modelos Determinísticos de Investigação Operacional.
