@@ -1,0 +1,15 @@
+--2021-05-23 14:03:29--  http://localhost:8080/batata.txt
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2021-05-23 14:18:30--  (try: 2)  http://localhost:8080/batata.txt
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2021-05-23 14:22:16--  (try: 3)  http://localhost:8080/batata.txt
+Connecting to localhost (localhost)|127.0.0.1|:8080... failed: Connection refused.
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... failed: Connection refused.

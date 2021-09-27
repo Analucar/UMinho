@@ -1,0 +1,21 @@
+
+Criar classe 'cliente', que é para processar os pedidos de quem vai usar a aplicação
+Cliente:
+	- receber pedidos da terminal, processá-los (no futuro não vai receber da terminal, mas de pacotes HTTP)
+            -ex: receber pedido de um ficheiro
+	- conectar com os FastFileServer
+	- escolher os servidores que vai usar, autenticação com os servidores, etc
+	- envia os pedidos
+	- receber os pedidos, verifica-los e possivelemente fazer o pedido de novo caso haja erro
+
+
+Class rec:
+-> de acordo com o tamanho, gera os pacotes necessários para enviar -> falta fazer gerar vários pacotes para ficheiros grandes (para já gera só um)
+->  esperar pelo acknowledgment, e se houver timeout enviar de novo -> falta fazer cena do timeout
+
+Class FastFileSrv :
+-> escolher vários servidoer
+
+
+DUVIDAS
+Porta 80 n funciona.
