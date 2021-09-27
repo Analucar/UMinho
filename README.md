@@ -1,6 +1,6 @@
 # University Projects 💻
 
-:pushpin: Here you'll find most of the projects and each grade.
+:pushpin: Here you'll find my university projects and their grades.
 
 All of the projects were developed during my time studying Software Engineering at University of Minho.
 
