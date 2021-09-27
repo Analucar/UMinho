@@ -36,7 +36,7 @@ Here you'll find most of the projects that I did during my time studying Softwar
 
 (16) [Sistemas Distribuidos](https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/SD)
 
-(15) [Redes de Computadores]((https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/RC)
+(15) [Redes de Computadores](https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/RC)
 
 (18,19) [Métodos Numéricos e Otimização não Linear](https://github.com/Analucar/UMinho/tree/main/ThirdYear/1st/MNOL)
 
