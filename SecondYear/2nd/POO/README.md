@@ -1,4 +1,4 @@
-### :books: Programação Orientada a Objetos :sparkles:
+### :books: Programação Orientada a Objetos
 ***
 
 Here you can find the report and code developed for Programação Orientada a Objetos.
