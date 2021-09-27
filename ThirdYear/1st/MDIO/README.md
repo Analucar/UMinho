@@ -4,9 +4,9 @@
 Here you can find the report and code developed for Modelos Determinísticos de Investigação Operacional.
 
 In this subject we devoleped 3 different projects. 
-- First Project: Grade 20/20
-- Seconde Project: Grade 15/20
-- Third Project: Grade 20/20
+- First Project: 20
+- Seconde Project: 15
+- Third Project: 20
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
