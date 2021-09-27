@@ -1,8 +1,6 @@
 ### :books: Laboratório de Informática III
 ***
 
-Here you can find the reports and code developed for Laboratório de Informática III.
-
 This subject consisted in developing 2 projects, one in Java and another in C.   
 
 #### :handshake: Contributors 
