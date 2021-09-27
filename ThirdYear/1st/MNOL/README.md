@@ -1,6 +1,5 @@
 ### :books: Métodos Numéricos e Otimização não Linear 
 ***
-Here you can find the report and code developed for Métodos Numéricos e Otimização não Linear.
 
 In this subject we developed 2 projects.
 First Project: 18
