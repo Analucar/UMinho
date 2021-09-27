@@ -1,6 +1,5 @@
 ### :books: Cálculo de Programas
 ***
-Here you can find the report and code developed for Cálculo de Programas.
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
