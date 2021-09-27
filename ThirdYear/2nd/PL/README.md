@@ -1,7 +1,6 @@
 
 ### :books: Processamento de Linguagens
 ***
-Here you can find the report and code developed for Processamento de Linguagens.
 
 In this subject we developed 2 different projects.
 - First Project: 19
