@@ -1,4 +1,4 @@
-# University Projects 💻
+# 💻 University Projects 
 
 :pushpin: Here you'll find my university projects and their grades.
 
