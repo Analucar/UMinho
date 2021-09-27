@@ -56,7 +56,7 @@ All of the projects were developed during my time studying Software Engineering 
 
 **19, 16** - [Processamento de Linguagens](https://github.com/Analucar/UMinho/tree/main/ThirdYear/2nd/PL)
 
-**14** - [Comunicações por Computadores](https://github.com/Analucar/UMinho/tree/main/ThirdYear/2nd/CC)
+**16** - [Comunicações por Computadores](https://github.com/Analucar/UMinho/tree/main/ThirdYear/2nd/CC)
 
 ***
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
