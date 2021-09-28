@@ -10,8 +10,6 @@ All of the projects were developed during my time studying for my Bachelor's Deg
 ### :wavy_dash: FIRST YEAR :wavy_dash:
 
 #### :sunflower: 1st Semester 
-**14** - [Elementos de Engenharia de Sistemas](https://github.com/Analucar/UMinho/tree/main/FirstYear/1st/EES)
-
 **18** - [Laboratórios de Informática I](https://github.com/Analucar/UMinho/tree/main/FirstYear/1st/LI1)
 
 #### :sunflower: 2nd Semester 
