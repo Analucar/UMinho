@@ -2,7 +2,7 @@
 ### :books:  Base de Dados
 ***
 
-This project consisted in developing a database for a streaming platform called Séries & Companhia. 
+This project consisted in developing a database using MySQL for a streaming platform called Séries & Companhia. 
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
