@@ -1,7 +1,6 @@
 ### :books: Laboratório de Informática IV
 ***
-
-In this subject the project was divided in 3 different phases. 
+This project consisted in developing an app called Porali that monitor buses in Braga city. For this project we had to developed the frontend and backend of this application by using the plaform blazor, MySQL and the library .NET. This project was divided into 3 different phases and developed in C#, CSS and JavaScript.  
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
