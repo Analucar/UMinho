@@ -2,9 +2,10 @@
 ### :books: Processamento de Linguagens
 ***
 
-In this subject we developed 2 different projects.
-- First Project: 19
-- Second Project: 16
+- The first project consisted in 
+  - First Project: 19
+- The second project consisted in developing a compiler of an imperative language using context-independent and translator grammars
+  - Second Project: 16
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
