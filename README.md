@@ -1,11 +1,13 @@
 # 🖥️ University Projects 
 
+### Bachelor's Degree
+
 :pushpin: Here you'll find my university projects and their grades.
 
-All of the projects were developed during my time studying Software Engineering at University of Minho.
+All of the projects were developed during my time studying for my Bachelor's Degree in Software Engineering at University of Minho.
 
 ***
-### :wavy_dash: FIRST YEAR 	:wavy_dash:
+### :wavy_dash: FIRST YEAR :wavy_dash:
 
 #### :sunflower: 1st Semester 
 **14** - [Elementos de Engenharia de Sistemas](https://github.com/Analucar/UMinho/tree/main/FirstYear/1st/EES)
@@ -65,7 +67,4 @@ All of the projects were developed during my time studying Software Engineering 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-
-
-
+![Haskell](https://img.shields.io/badge/haskell-3670A0?style=flat&logo=haskell&color=white&logoColor=darkorange)
