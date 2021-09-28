@@ -1,7 +1,9 @@
 ### :books: Laboratório de Informática III
 ***
 
-This subject consisted in developing 2 projects, one in Java and another in C.
+These projects consisted in managing efficiently large amounts of data by using trees, maps, hash maps, hash trees and others.
+
+We developed 2 programs, one written in Java and aonther in C.
 - Project C: 17
 - Project Java: 18
 
