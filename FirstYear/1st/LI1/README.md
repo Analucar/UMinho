@@ -1,7 +1,7 @@
 ### :books: Laboratórios de Informática I
 ***
 
-This project consisted in creating a game in which tanks try to eliminate other tanks using different types of weapons.
+This project consisted in creating a game in which tanks try to eliminate other tanks using different types of weapons. The game was developed in Haskell.
 
 [Here](https://github.com/feliciofilipe/university/tree/master/1st/LI1) you can find the project developed in this subject.
 
