@@ -1,7 +1,6 @@
 ### :books: Desenvolvimento de Sistemas de Software
 ***
-
-For this subject the project was developed in 3 different phases.
+This projected consisted in developing a program to be implemented in the storage facility of a company. The focous of this project was planning all the different stages of software development by using diagrams and models. This project was also developed in Java and in 3 different phases.
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
