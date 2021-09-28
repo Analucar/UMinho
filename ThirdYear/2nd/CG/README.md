@@ -1,7 +1,6 @@
 ### :books: Computação Gráfica
 ***
-
-In this subject we developed a project divided in 3 different phases.
+This project consisted in developing a solar system using Computer graphics. This project was divided into 3 different phases and written in C++.
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
