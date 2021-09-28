@@ -1,6 +1,7 @@
 
 ### :books: Sistemas Distríbuidos
 ***
+This project conisted in developing a program similar to the app [Stayway Covid](https://stayawaycovid.pt/?cn-reloaded=1) using fundamental principles of distributed systems. 
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
