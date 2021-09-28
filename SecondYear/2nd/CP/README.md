@@ -1,7 +1,7 @@
 ### :books: Cálculo de Programas
 ***
 
-This project consisted in doing several exercises using formal methods. The project was developed in haskell
+This project consisted in doing several exercises using formal methods. The project was developed in haskell.
 
 #### :handshake: Contributors 
 - [Ana Luísa Carneiro](https://github.com/Analucar)
